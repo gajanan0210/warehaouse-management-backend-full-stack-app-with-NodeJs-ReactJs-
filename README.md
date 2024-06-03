@@ -1,3 +1,5 @@
+# THE FRONTEND FOR THIS PROJECT CAN BE FOUND IN THE 👉 [FRONTEND REPOSITORY](https://github.com/gajanan0210/digiflake-assignment).
+
 # React and Node.js with MongoDB Application
 
 ## Table of Contents
